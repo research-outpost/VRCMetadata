@@ -1,0 +1,9 @@
+# Build outputs
+*.exe
+*.obj
+*.pdb
+.zig-cache/
+zig-out/
+
+# Icon previews are documentation-only; tools/make_icons.py writes the .bin files
+icon*_preview.png
